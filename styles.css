@@ -1,0 +1,21 @@
+/*Style sheet for mainpage*/
+
+	body {
+	color: white;
+	background-color: black;
+	text-align: center;
+	font-size: 44;
+	font-family: "Times New Roman", "Courier New" ;
+	margin: 0px 100px 0px 100px;
+	line-height: 70px;
+	
+}
+
+	h1{
+	color: gray;
+	font-size: 74px;
+}
+
+	list {
+	text-align: left;
+	}
