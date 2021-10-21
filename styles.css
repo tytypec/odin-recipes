@@ -6,15 +6,49 @@
 	text-align: center;
 	font-size: 44;
 	font-family: "Times New Roman", "Courier New" ;
-	margin: 0px 100px 0px 100px;
+	border-style: solid;
+	margin: 0px 50px 0px 200px;
 	line-height: 70px;
 	
 }
 
-	h1{
-	color: gray;
-	font-size: 74px;
-}
+	.topbar{
+		margin: 15px 80px 0px 150px;
+		text-align: center;
+		}
+		
+		h1{
+		color: gray;
+		font-size: 74px;
+		
+	}
+
+	.toppics{
+		margin: 15px 80px 0px 150px;
+		}
+
+	.sidebar{
+		height: 100%;
+		width: 200px;
+		position: absolute;
+		left: 0;
+		top: 0;
+		border-style: solid;
+		padding-top: 40px;
+		background-color: black;
+		}
+
+		.sidebar div {
+		padding: 8px;
+		font-size: 24px;
+		display: block;
+		}
+
+		.body-text {
+		margin-left: 150px;
+		font-size: 18px;
+		}
+	
 
 	list {
 	text-align: left;
